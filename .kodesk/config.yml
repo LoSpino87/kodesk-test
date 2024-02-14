@@ -1,3 +1,11 @@
 remote:
     url: http://dev.kode-datacenter.net:8082
-datasets: []
+datasets:
+-   path: resources\*
+    name: bands
+    desc: All bands
+    label: bands
+    type: table
+    meta:
+        tag: null
+        commit: '0000000000000000000000000000000000000000'
