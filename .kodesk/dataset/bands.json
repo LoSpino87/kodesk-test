@@ -1,47 +1,47 @@
 [
     {
         "path": "resources\\dinosaur-jr.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "874e8cdb9bfba0e38190c21ad73d00dcd08a417fde501df8d350e0b2f204227024262d8f540862f7d29605be360ac82ed0012b7faf0d04b6773bd50641cda8b8"
     },
     {
         "path": "resources\\green-day.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "ce62a0ad7ad920add988c06313d0312ae646d77943b1f486a30b36ad8779605587f15cf4b997db0539029a80bb941e9bdcb7729cff110fd41809aadf8b0d7207"
     },
     {
         "path": "resources\\nirvana.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "5cc0daf2feac841a51a2c3f0d762f8699c17273ceef22edbd27ffefb9795c6e6fbc5e951fd906e24d68a915e5613c09da30ed8d22dfc696e03a952a641456573"
     },
     {
         "path": "resources\\offspring.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "611c0315dcb2b8227693b9aadbdf72f407b1aef48ce5acaeeedd7216827ac1ece245a602db53bd12765aafbb53c03c78037638cd46821cd758e98e5ae7692625"
     },
     {
         "path": "resources\\police.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "fce915910a6dadbc287f28d455b7bb2945a2116b29a5fe7d4dfd7fb9a4aaf3876639fbe183e71a804c5906efda0c8e515b5859e1d4525300d8e6e01a97a4f3d5"
     },
     {
         "path": "resources\\skunk-anansie.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "d49c8168d0dcc0bf5cbb19c9ca385b515678e29de5d6ac9379302c657d5aba38c6ae1ac31e05310f439529ffd3b0e85848427c703bd6392a7dbdc1edc92ecf9f"
     },
     {
         "path": "resources\\smashing-pumpkins.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "4bd1695be38858269606e1723d849ff82c7f8e321198f4b4f90ea7799c3f31353be947b0739f0088e9c2e0db5b8c40b3ba8c11f83c8cef6ebbd3f22f37dabf09"
     },
     {
         "path": "resources\\sonic-youth.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "e8728d9376587376abb836da7f8e0f5286067b27f767e0670707608af76885bd6cb6aaa6b4d7a198d604ea243ab80ac6610e39287e6bb2d29a57dae38083222c"
     },
     {
         "path": "resources\\sound-garden.csv",
-        "commit": "0000000000000000000000000000000000000000",
+        "commit": "62e3cb02f0033bb0165239e344cbc48bc45c5447",
         "checksum": "28094bb41575487d07e2e0770e6d7a38120a94ad2a83cd7f608e70ad4bdf30727cdc60b62a7decbaf72b4fab8a231aa580dd233c54169524cb1d16f86000ab29"
     }
 ]
